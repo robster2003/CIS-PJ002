@@ -10,6 +10,10 @@ body {
  width: 95%; 
 }
 
+.container{
+    filter: drop-shadow(0 0 85px red);
+}
+
 header {
     background: black;
 }
